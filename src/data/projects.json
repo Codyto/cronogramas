@@ -1,0 +1,141 @@
+{
+  "months": [
+    "2025-12",
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06",
+    "2026-07",
+    "2026-08",
+    "2026-09",
+    "2026-10",
+    "2026-11",
+    "2026-12"
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "entity": "Municipalidad de Chulucanas",
+      "budget_base": 13923123,
+      "budget_projected": 19883884.85,
+      "approved_note": true,
+      "milestones": ["2025-12", "2026-08"],
+      "details": {
+        "responsable": "Equipo técnico norte",
+        "estado_general": "En curso",
+        "observacion_general": "Proyecto priorizado por alta demanda poblacional"
+      },
+      "timeline": {
+        "2025-12": { "status": "ejecucion", "note": "Inicio de actividades" },
+        "2026-01": { "status": "ejecucion", "note": "Despliegue de cuadrillas" },
+        "2026-02": { "status": "ejecucion", "note": "Supervisión de obra" },
+        "2026-03": { "status": "ejecucion", "note": "Ajustes técnicos" },
+        "2026-04": { "status": "ejecucion", "note": "Validación de entregables" },
+        "2026-05": { "status": "ejecucion", "note": "" },
+        "2026-06": { "status": "ejecucion", "note": "" },
+        "2026-07": { "status": "ejecucion", "note": "" },
+        "2026-08": { "status": "ejecucion", "note": "Cierre de componente I" }
+      }
+    },
+    {
+      "id": 2,
+      "entity": "Municipalidad de Paracas",
+      "budget_base": 17200330.45,
+      "budget_projected": 21900120.9,
+      "approved_note": true,
+      "milestones": ["2026-03"],
+      "details": {
+        "responsable": "Unidad litoral",
+        "estado_general": "Por iniciar",
+        "observacion_general": "Pendiente de coordinación con actores locales"
+      },
+      "timeline": {
+        "2025-12": { "status": "coordinaciones_iniciales", "note": "Presentación preliminar" },
+        "2026-01": { "status": "actos_previos", "note": "Levantamiento topográfico" },
+        "2026-02": { "status": "proceso_seleccion", "note": "Convocatoria abierta" },
+        "2026-03": { "status": "proceso_seleccion", "note": "Adjudicación" },
+        "2026-04": { "status": "ejecucion", "note": "Inicio de ejecución" },
+        "2026-05": { "status": "ejecucion", "note": "" },
+        "2026-06": { "status": "ejecucion", "note": "" },
+        "2026-07": { "status": "actos_previos", "note": "Revisión de expediente" }
+      }
+    },
+    {
+      "id": 3,
+      "entity": "Municipalidad de Casma",
+      "budget_base": 11590350,
+      "budget_projected": 16220500,
+      "approved_note": false,
+      "milestones": ["2026-06"],
+      "details": {
+        "responsable": "Comité central",
+        "estado_general": "Evaluación",
+        "observacion_general": "Se requieren ajustes del plan financiero"
+      },
+      "timeline": {
+        "2025-12": { "status": "vacio", "note": "" },
+        "2026-01": { "status": "coordinaciones_iniciales", "note": "Conformación de comité" },
+        "2026-02": { "status": "coordinaciones_iniciales", "note": "Mesa técnica intersectorial" },
+        "2026-03": { "status": "actos_previos", "note": "Trámite documental" },
+        "2026-04": { "status": "proceso_seleccion", "note": "Bases aprobadas" },
+        "2026-05": { "status": "proceso_seleccion", "note": "Etapa de consultas" },
+        "2026-06": { "status": "ejecucion", "note": "Inicio de obras civiles" },
+        "2026-07": { "status": "ejecucion", "note": "" },
+        "2026-08": { "status": "ejecucion", "note": "" }
+      }
+    },
+    {
+      "id": 4,
+      "entity": "Municipalidad de Talara",
+      "budget_base": 20311500,
+      "budget_projected": 28400000,
+      "approved_note": true,
+      "milestones": ["2026-01", "2026-10"],
+      "details": {
+        "responsable": "Gerencia regional",
+        "estado_general": "En curso",
+        "observacion_general": "Proyecto estratégico para cierre de brechas"
+      },
+      "timeline": {
+        "2025-12": { "status": "actos_previos", "note": "Aprobación de expediente" },
+        "2026-01": { "status": "proceso_seleccion", "note": "Otorgamiento de buena pro" },
+        "2026-02": { "status": "ejecucion", "note": "Movilización inicial" },
+        "2026-03": { "status": "ejecucion", "note": "" },
+        "2026-04": { "status": "ejecucion", "note": "" },
+        "2026-05": { "status": "ejecucion", "note": "" },
+        "2026-06": { "status": "ejecucion", "note": "" },
+        "2026-07": { "status": "ejecucion", "note": "" },
+        "2026-08": { "status": "ejecucion", "note": "" },
+        "2026-09": { "status": "actos_previos", "note": "Auditoría intermedia" },
+        "2026-10": { "status": "ejecucion", "note": "Reinicio de frente 2" }
+      }
+    },
+    {
+      "id": 5,
+      "entity": "Municipalidad de Nasca",
+      "budget_base": 9804500,
+      "budget_projected": 14022000.25,
+      "approved_note": false,
+      "milestones": ["2026-04"],
+      "details": {
+        "responsable": "PMO sur",
+        "estado_general": "Planificación",
+        "observacion_general": "Proyecto en fase de articulación multisectorial"
+      },
+      "timeline": {
+        "2025-12": { "status": "vacio", "note": "" },
+        "2026-01": { "status": "vacio", "note": "" },
+        "2026-02": { "status": "coordinaciones_iniciales", "note": "Mapeo de interesados" },
+        "2026-03": { "status": "actos_previos", "note": "Recopilación de insumos" },
+        "2026-04": { "status": "proceso_seleccion", "note": "Publicación de términos" },
+        "2026-05": { "status": "proceso_seleccion", "note": "" },
+        "2026-06": { "status": "actos_previos", "note": "Absolución de observaciones" },
+        "2026-07": { "status": "ejecucion", "note": "Inicio parcial" },
+        "2026-08": { "status": "ejecucion", "note": "" },
+        "2026-09": { "status": "ejecucion", "note": "" }
+      }
+    }
+  ]
+}
